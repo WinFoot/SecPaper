@@ -43,6 +43,16 @@
 - 小米安全与隐私白皮书2019
 - 钉钉安全白皮书v2.0
 
+## CSA
+
+- CSA云计算关键领域安全指南v4.0
+- CSA云安全控制矩阵CCM3.0
+- CSA云计算的顶级威胁案例深度分析
+- CSA云计算安全技术要求_总则
+- CSA云计算安全技术要求 IaaS安全技术要求
+- CSA云计算安全技术要求 PaaS安全技术要求
+- CSA云计算安全技术要求 SaaS安全技术要求
+
 ## Microsoft
 
 - Azure Security Documentation
